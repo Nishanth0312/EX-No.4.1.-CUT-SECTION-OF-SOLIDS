@@ -1,5 +1,6 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE:
+## NAME : NISHANTH RS
+## REF NO: 24900198
 
 ## AIM
 To create the solid model from given drawing and section the solid model
